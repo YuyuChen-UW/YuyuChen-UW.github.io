@@ -46,6 +46,11 @@ I am interested in the research of actuarial science and risk management
   NeurIPS Official Meetups
   <br>
   Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  
+## Professional Designation
+I am working towards the Associate of the Society of Actuaries (ASA)
+- **Passed Exams:** P, FM, IME, STAM, LTAM, SRM, PA
+- **Earned VEE Credits:** Accounting and Finance, Economics, Mathematical Statistics
 
 ## Services
 

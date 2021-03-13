@@ -43,25 +43,25 @@ I am interested in the research of actuarial science and risk management
 
 - **2018.09-present， Teaching Assistant at the University of Waterloo**
   <br>
-  ACTSC 231 (Introductory Financial Mathematics)
+  -ACTSC 231 (Introductory Financial Mathematics)
    <br>
-  ACTSC 371 (Introduction to Investments)
+  -ACTSC 371 (Introduction to Investments)
    <br>
-  ACTSC 372 (Corporate Finance)
+  -ACTSC 372 (Corporate Finance)
    <br>
-  ACTSC 446/846 (Mathematics of Financial Markets)
+  -ACTSC 446/846 (Mathematics of Financial Markets)
    <br>
-  MATBUS 471 (Fixed Income Securities)
+  -MATBUS 471 (Fixed Income Securities)
    <br>
-  STAT 330 (Mathematical Statistics)
+  -STAT 330 (Mathematical Statistics)
    <br>
-  STAT 333 (Applied Probability)
+  -STAT 333 (Applied Probability)
   
 - **2016.09-2018.06， Teaching Assistant at the University of Calgary**
   <br>
-  STAT 213 (Introduction to Statistics I)
+  -STAT 213 (Introduction to Statistics I)
    <br>
-  STAT 217 (Introduction to Statistics II)
+  -STAT 217 (Introduction to Statistics II)
  
  
 
@@ -74,3 +74,9 @@ I am working towards the Associate of the Society of Actuaries (ASA)
 ## Peer-review Service
 
 - ASTIN Bulletin - The Journal of the International Actuarial Association
+
+## Awards
+
+- University of Waterloo Graduate Scholarship (2020-2021) (2018-2019)
+- Semi-finalist in the Student Case Study Challenge held by SOA in 2017
+- Academic Excellence Awards (2015-2016) (2014-2015) (2012-2013)

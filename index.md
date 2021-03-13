@@ -27,11 +27,17 @@ I am interested in the research of actuarial science and risk management
 
 ## Presentations
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Trade-off between anytime- and sometime-safe methods for merging p-values**
   <br>
-  NeurIPS Official Meetups
+  University of Waterloo SAS Research Presentation Day
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  Waterloo, Canada, February 2020 
+  
+- **VIX-linked GMMB under affine GARCH models**
+  <br>
+  The 2018 Alberta Mathematics Dialogue, Mathematical Finance Session
+  <br>
+  Calgary, Canada, May 2018
   
 ## Teaching Experience
 

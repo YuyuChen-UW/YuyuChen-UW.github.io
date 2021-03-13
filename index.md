@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Ph.D. student in Actuarial Science at the University of Waterloo, working under the supervision of Professor [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and Professor [Ken Seng Tan](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/ken-seng-tan).
+
+Before coming to the University of Waterloo, I obtained my M.Sc degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec in Actuarial Science from Southwestern University of Finance and Economics.
 
 ## Research Interests
 

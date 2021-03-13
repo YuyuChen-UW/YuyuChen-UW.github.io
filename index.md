@@ -15,18 +15,15 @@ I am interested in the research of actuarial science and risk management
 
 ## Publications
 
--  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. \textit{Quantitative Finance}, 19(2), 227-246.
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)]
+-  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. **Quantitative Finance**, 19(2), 227-246.
+  [[PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits)]
   
 ## Manuscripts
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+-  Chen, Y., Liu, P., Liu, Y., and Wang, R. (2020). Ordering and Inequalities for Mixtures on Risk Aggregation. arXiv preprint arXiv:2007.12338.
+  [arXiv](https://arxiv.org/abs/2007.12338)
+-  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2020). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. arXiv preprint arXiv:2007.12366.
+  [arXiv](https://arxiv.org/abs/2007.12366)
 
 ## Presentations
 

@@ -10,7 +10,7 @@ Before coming to the University of Waterloo, I obtained my M.Sc degree in Statis
 
 ## Research Interests
 I am interested in the research of actuarial science and risk management
-- **Robust Risk Aggregation Techniques and Application** 
+- **Robust Risk Aggregation Technique and Application** 
 - **Application of Affine GARCH Models** 
 
 ## Publications

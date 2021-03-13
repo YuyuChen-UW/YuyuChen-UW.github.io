@@ -67,7 +67,7 @@ I am interested in the research of actuarial science and risk management
 
   
 ## Professional Designation
-I am working towards the Associate of the Society of Actuaries (ASA)
+I am working towards the Associate of the [Society of Actuaries](www.soa.org) (ASA)
 - **Passed Exams:** P, FM, IME, STAM, LTAM, SRM, PA
 - **Earned VEE Credits:** Accounting and Finance, Economics, Mathematical Statistics
 

@@ -41,11 +41,23 @@ I am interested in the research of actuarial science and risk management
   
 ## Teaching Experience
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **2018.09-present， Teaching Assistant at the University of Waterloo**
   <br>
-  NeurIPS Official Meetups
+  ACTSC 231 (Introductory Financial Mathematics)
+  ACTSC 371 (Introduction to Investments)
+  ACTSC 372 (Corporate Finance)
+  ACTSC 446/846 (Mathematics of Financial Markets)
+  MATBUS 471 (Fixed Income Securities)
+  STAT 330 (Mathematical Statistics)
+  STAT 333 (Applied Probability)
+  
+- **2016.09-2018.06， Teaching Assistant at the University of Calgary**
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  STAT 213 (Introduction to Statistics I)
+  STAT 217 (Introduction to Statistics II)
+ 
+ 
+
   
 ## Professional Designation
 I am working towards the Associate of the Society of Actuaries (ASA)

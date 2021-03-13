@@ -15,7 +15,7 @@ I am interested in the research of actuarial science and risk management
 
 ## Publications
 
--  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. **Quantitative Finance**, 19(2), 227-246.
+-  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. **_Quantitative Finance_**, 19(2), 227-246.
   [[PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)]
   
 ## Manuscripts
@@ -52,8 +52,6 @@ I am working towards the Associate of the Society of Actuaries (ASA)
 - **Passed Exams:** P, FM, IME, STAM, LTAM, SRM, PA
 - **Earned VEE Credits:** Accounting and Finance, Economics, Mathematical Statistics
 
-## Services
+## Peer-review Service
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- ASTIN Bulletin - The Journal of the International Actuarial Association

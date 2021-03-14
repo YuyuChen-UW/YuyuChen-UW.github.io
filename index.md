@@ -6,12 +6,13 @@ layout: homepage
 
 I am currently a Ph.D. student in Actuarial Science at the University of Waterloo, working under the supervision of Professor [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and Professor [Ken Seng Tan](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/ken-seng-tan).
 
-Before coming to the University of Waterloo, I obtained my M.Sc degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec in Actuarial Science from Southwestern University of Finance and Economics.
+Before joining the University of Waterloo, I obtained my M.Sc degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec in Actuarial Science from Southwestern University of Finance and Economics.
 
 ## Research Interests
 I am interested in the research of actuarial science and risk management
-- **Robust risk aggregation technique and application** 
-- **Application of affine GARCH models** 
+- **Robust risk aggregation** 
+- **Dependence modelling** 
+- **Pricing financial derivatives** 
 
 ## Publications
 
@@ -41,7 +42,7 @@ I am interested in the research of actuarial science and risk management
   
 ## Teaching Experience
 
-- **2018.09-present， Teaching Assistant at the University of Waterloo**
+- **2018.09-present:Teaching Assistant at the University of Waterloo**
   <br>
   -ACTSC 231 (Introductory Financial Mathematics)
    <br>
@@ -57,7 +58,7 @@ I am interested in the research of actuarial science and risk management
    <br>
   -STAT 333 (Applied Probability)
   
-- **2016.09-2018.06， Teaching Assistant at the University of Calgary**
+- **2016.09-2018.06:Teaching Assistant at the University of Calgary**
   <br>
   -STAT 213 (Introduction to Statistics I)
    <br>

@@ -9,7 +9,7 @@ I am currently a Ph.D. student in Actuarial Science at the University of Waterlo
 Before joining the University of Waterloo, I obtained my M.Sc degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec in Actuarial Science from Southwestern University of Finance and Economics.
 
 ## Research Interests
-I am interested in the research of actuarial science and risk management
+I am interested in the research of actuarial science and risk management.
 - **Robust risk aggregation** 
 - **Dependence modelling** 
 - **Pricing financial derivatives** 

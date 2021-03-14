@@ -42,7 +42,7 @@ I am interested in the research of actuarial science and risk management
   
 ## Teaching Experience
 
-- **2018.09-present:Teaching Assistant at the University of Waterloo**
+- **2018.09-present: Teaching Assistant at the University of Waterloo**
   <br>
   -ACTSC 231 (Introductory Financial Mathematics)
    <br>
@@ -58,7 +58,7 @@ I am interested in the research of actuarial science and risk management
    <br>
   -STAT 333 (Applied Probability)
   
-- **2016.09-2018.06:Teaching Assistant at the University of Calgary**
+- **2016.09-2018.06: Teaching Assistant at the University of Calgary**
   <br>
   -STAT 213 (Introduction to Statistics I)
    <br>

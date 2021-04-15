@@ -17,7 +17,7 @@ I am interested in the research of actuarial science and risk management.
 ## Publications
 
 -  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. _Quantitative Finance_, 19(2), 227-246.
-  [[PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)]
+  [PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
   
 ## Manuscripts
 

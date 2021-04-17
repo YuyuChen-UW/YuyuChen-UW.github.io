@@ -78,7 +78,7 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 
 ## Awards
 
-- UW Statistics & Actuarial Science Chair's Award (2020-2021)
-- University of Waterloo Graduate Scholarship (2020-2021) (2018-2019)
-- Semi-finalist in the Student Case Study Challenge held by SOA in 2017
-- Academic Excellence Awards (2015-2016) (2014-2015) (2012-2013)
+- UW Statistics & Actuarial Science Chair's Award (2021W)
+- University of Waterloo Graduate Scholarship (2021W) (2018F)
+- Semi-finalist in the Student Case Study Challenge held by SOA (2017)
+- Academic Excellence Scholarships at SWUFE

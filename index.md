@@ -83,4 +83,4 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 - UW Graduate Scholarship (2021W) (2018F)
 - UW International Doctoral Student Award (2018-present)
 - Semi-finalist in the Student Case Study Challenge held by SOA (2017)
-- Academic Excellence Scholarships at SWUFE
+

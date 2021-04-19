@@ -12,7 +12,7 @@ Before joining the University of Waterloo, I obtained my M.Sc degree in Statisti
 I am interested in the research of actuarial science and risk management.
 - **Robust risk aggregation** 
 - **Dependence modelling** 
-- **Pricing financial derivatives** 
+- **Financial derivatives** 
 
 ## Publications
 

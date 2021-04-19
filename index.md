@@ -20,7 +20,8 @@ I am interested in the research of actuarial science and risk management.
   [PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
   
 ## Manuscripts
-
+-  Chen, Y., Liu, P., Liu, Y., and Wang, R. (2020). Ordered Risk Aggregation under Dependence Uncertainty. arXiv preprint arXiv:2104.07718.
+  [arXiv](https://arxiv.org/abs/2104.07718)
 -  Chen, Y., Liu, P., Liu, Y., and Wang, R. (2020). Ordering and Inequalities for Mixtures on Risk Aggregation. arXiv preprint arXiv:2007.12338.
   [arXiv](https://arxiv.org/abs/2007.12338)
 -  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2020). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. arXiv preprint arXiv:2007.12366.

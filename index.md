@@ -46,17 +46,19 @@ I am interested in the research of actuarial science and risk management.
 - **2018.09-present: Teaching Assistant at the University of Waterloo**
   <br>
   -ACTSC 231 (Introductory Financial Mathematics)
-   <br>
+  <br>
+  -ACTSC 232 (Life Contingencies 1)
+  <br>
   -ACTSC 371 (Introduction to Investments)
-   <br>
+  <br>
   -ACTSC 372 (Corporate Finance)
-   <br>
+  <br>
   -ACTSC 446/846 (Mathematics of Financial Markets)
-   <br>
+  <br>
   -MATBUS 471 (Fixed Income Securities)
-   <br>
+  <br>
   -STAT 330 (Mathematical Statistics)
-   <br>
+  <br>
   -STAT 333 (Applied Probability)
   
 - **2016.09-2018.06: Teaching Assistant at the University of Calgary**

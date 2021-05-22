@@ -29,6 +29,12 @@ I am interested in the research of actuarial science and risk management.
 
 ## Presentations
 
+- **Ordering and Inequalities for Mixtures on Risk Aggregation**
+  <br>
+  The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics
+  <br>
+  Online, May 2021 
+
 - **Trade-off between anytime- and sometime-safe methods for merging p-values**
   <br>
   University of Waterloo SAS Research Presentation Day

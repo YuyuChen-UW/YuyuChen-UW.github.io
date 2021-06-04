@@ -26,6 +26,9 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2104.07718)
 -  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2020). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. arXiv preprint arXiv:2007.12366.
   [arXiv](https://arxiv.org/abs/2007.12366)
+  
+## R package 
+  **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are avaliable at [github](https://github.com/YuyuChen-UW/pmerge).
 
 ## Presentations
 

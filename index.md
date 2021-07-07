@@ -31,8 +31,12 @@ I am interested in the research of actuarial science and risk management.
   **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are avaliable at [Github](https://github.com/YuyuChen-UW/pmerge).
 
 ## Presentations
-
-- **Ordering and Inequalities for Mixtures on Risk Aggregation**
+- **Aggregation of two ordered risks with dependence uncertainty**
+  <br>
+  The 24th International Congress on Insurance: Mathematics and Economics
+  <br>
+  Online, July 2021 
+- **Ordering and inequalities for mixtures on risk aggregation**
   <br>
   The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics
   <br>

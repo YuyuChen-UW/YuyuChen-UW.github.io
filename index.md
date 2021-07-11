@@ -95,5 +95,5 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 - UW Statistics & Actuarial Science Chair's Award (2021W)
 - UW Graduate Scholarship (2021W) (2018F)
 - UW International Doctoral Student Award (2018-present)
-- Semi-finalist in the Student Case Study Challenge held by SOA (2017)
+- Semi-finalist in the Student Case Study Challenge held by the Society of Actuaries (2017)
 

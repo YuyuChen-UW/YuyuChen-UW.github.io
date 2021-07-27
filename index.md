@@ -91,8 +91,8 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 - ASTIN Bulletin - The Journal of the International Actuarial Association
 
 ## Awards
+- UW Statistics & Actuarial Science Chair's Award (2021S) (2021W) 
 - Maplesoft Best Student Paper Award of the 24th Congress on Insurance: Mathematics and Economics (2021)
-- UW Statistics & Actuarial Science Chair's Award (2021W) (2021S)
 - UW Graduate Scholarship (2021W) (2018F)
 - UW International Doctoral Student Award (2018-present)
 - Semi-finalist in the Student Case Study Challenge held by the Society of Actuaries (2017)

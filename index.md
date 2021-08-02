@@ -28,7 +28,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2007.12366)
   
 ## R package 
-  **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are avaliable at [Github](https://github.com/YuyuChen-UW/pmerge).
+  **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
 
 ## Presentations
 - **Aggregation of two ordered risks with dependence uncertainty**

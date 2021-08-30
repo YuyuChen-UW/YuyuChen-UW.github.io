@@ -31,6 +31,11 @@ I am interested in the research of actuarial science and risk management.
   **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
 
 ## Presentations
+- **Ordered Risk Aggregation under Dependence Uncertainty**
+  <br>
+  The 56th Actuarial Research Conference
+  <br>
+  Online, August 2021 
 - **Aggregation of two ordered risks with dependence uncertainty**
   <br>
   The 24th International Congress on Insurance: Mathematics and Economics
@@ -91,6 +96,7 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 - ASTIN Bulletin - The Journal of the International Actuarial Association
 
 ## Awards
+- Best Student Presentation Award of the 56th Actuarial Research Conference 
 - Maplesoft Best Student Paper Award of the 24th Congress on Insurance: Mathematics and Economics 
 - UW Statistics & Actuarial Science Chair's Award 
 - UW Graduate Scholarship 

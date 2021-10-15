@@ -48,7 +48,7 @@ I am interested in the research of actuarial science and risk management.
   University of Waterloo SAS Research Presentation Day, Waterloo, Canada, February 2020  
 - **VIX-linked GMMB under affine GARCH models**
   <br>
-  The 2018 Alberta Mathematics Dialogue, Mathematical Finance Session, Calgary, Canada, May 2018
+  The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
   
 ## Teaching Experience
 

@@ -33,6 +33,9 @@ I am interested in the research of actuarial science and risk management.
 ## Presentations
 - **Ordered Risk Aggregation under Dependence Uncertainty**
   <br>
+  The International Actuarial Association Joint Section Colloquium, online, October 2021 
+- **Ordered Risk Aggregation under Dependence Uncertainty**
+  <br>
   The 56th Actuarial Research Conference, online, August 2021 
 - **Aggregation of two ordered risks with dependence uncertainty**
   <br>

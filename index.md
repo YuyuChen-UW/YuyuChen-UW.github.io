@@ -77,12 +77,9 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 - ASTIN Bulletin - The Journal of the International Actuarial Association
 - Scandinavian Journal of Statistics
 
-## Awards
+## Selected Awards
 - Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
 - Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
 - Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference 
-- UW Statistics & Actuarial Science Chair's Award 
-- UW Graduate Scholarship 
-- UW International Doctoral Student Award 
-- Semi-finalist, the 2017 Society of Actuaries Student Case Study Challenge
+
 

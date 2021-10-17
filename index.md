@@ -78,9 +78,7 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 - Scandinavian Journal of Statistics
 
 ## Selected Awards
-- Best Paper Award 
- <br>
-- The 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
+- Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
 - Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
 - Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference 
 

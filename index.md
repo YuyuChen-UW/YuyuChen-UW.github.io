@@ -31,24 +31,12 @@ I am interested in the research of actuarial science and risk management.
   **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
 
 ## Presentations
-- **Ordered Risk Aggregation under Dependence Uncertainty**
-  <br>
-  The International Actuarial Association Joint Section Colloquium, online, October 2021 
-- **Ordered Risk Aggregation under Dependence Uncertainty**
-  <br>
-  The 56th Actuarial Research Conference, online, August 2021 
-- **Aggregation of two ordered risks with dependence uncertainty**
-  <br>
-  The 24th International Congress on Insurance: Mathematics and Economics, online, July 2021 
-- **Ordering and inequalities for mixtures on risk aggregation**
-  <br>
-  The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics, online, May 2021 
-- **Trade-off between anytime- and sometime-safe methods for merging p-values**
-  <br>
-  University of Waterloo SAS Research Presentation Day, Waterloo, Canada, February 2020  
-- **VIX-linked GMMB under affine GARCH models**
-  <br>
-  The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
+- The International Actuarial Association Joint Section Colloquium, online, October 2021 
+- The 56th Actuarial Research Conference, online, August 2021 
+- The 24th International Congress on Insurance: Mathematics and Economics, online, July 2021 
+- The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics, online, May 2021 
+- University of Waterloo SAS Research Presentation Day, Waterloo, Canada, February 2020  
+- The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
   
 ## Teaching Experience
 

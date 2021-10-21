@@ -71,6 +71,7 @@ I am working towards the Associate of the [Society of Actuaries](www.soa.org) (A
 - **Passed Exams:** P, FM, IME, STAM, LTAM, SRM, PA
 - **Earned VEE Credits:** Accounting and Finance, Economics, Mathematical Statistics
 - **FAP:** EMA 1-7
+
 ## Peer-review Service
 - Insurance: Mathematics and Economics
 - ASTIN Bulletin - The Journal of the International Actuarial Association

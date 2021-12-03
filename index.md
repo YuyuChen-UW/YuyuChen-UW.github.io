@@ -20,7 +20,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2104.07718)
 -  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2021). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. _Statistica Sinica_, forthcoming.
   [arXiv](https://arxiv.org/abs/2007.12366)
--  Chen, Y., Liu, P., Liu, Y., and Wang, R. (2021). Ordering and Inequalities for Mixtures on Risk Aggregation. _Mathematical Finance_, forthcoming.
+-  Chen, Y., Liu, P., Liu, Y., and Wang, R. (2021). Ordering and inequalities for mixtures on risk aggregation. _Mathematical Finance_, forthcoming.
   [arXiv](https://arxiv.org/abs/2007.12338)
 -  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. _Quantitative Finance_, 19(2), 227-246.
   [PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)

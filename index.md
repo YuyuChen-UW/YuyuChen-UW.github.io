@@ -73,6 +73,7 @@ Associate of the [Society of Actuaries](https://www.soa.org) (ASA)
 ## Peer-review Service
 - Insurance: Mathematics and Economics
 - ASTIN Bulletin - The Journal of the International Actuarial Association
+- Journal of Mathematical Economics
 - Scandinavian Journal of Statistics
 
 ## Selected Awards

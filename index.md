@@ -68,7 +68,7 @@ I am interested in the research of actuarial science and risk management.
   
 ## Professional Designation
 Associate of the [Society of Actuaries](https://www.soa.org) (ASA)
-- Listed in December 2021
+- Listed in January 2022
 
 ## Peer-review Service
 - Insurance: Mathematics and Economics

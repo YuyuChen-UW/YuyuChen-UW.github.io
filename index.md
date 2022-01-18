@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a Ph.D. student in Actuarial Science at the University of Waterloo, working under the supervision of Professor [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and Professor [Ken Seng Tan](https://dr.ntu.edu.sg/cris/rp/rp00143).
 
-Before joining the University of Waterloo, I obtained my M.Sc. degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec. in Actuarial Science from Southwestern University of Finance and Economics. I am an [Associate of the Society of Actuaries](https://www.soa.org/education/exam-req/edu-asa-req/).
+Before joining the University of Waterloo, I obtained my M.Sc. degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec. in Actuarial Science from Southwestern University of Finance and Economics. I am [Associate of the Society of Actuaries](https://www.soa.org/education/exam-req/edu-asa-req/).
 
 ## Research Interests
 

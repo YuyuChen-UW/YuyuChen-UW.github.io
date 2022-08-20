@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a Ph.D. student in Actuarial Science at the University of Waterloo, working under the supervision of Professor [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and Professor [Ken Seng Tan](https://dr.ntu.edu.sg/cris/rp/rp00143).
 
-Before joining the University of Waterloo, I obtained my M.Sc. degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec. in Actuarial Science from Southwestern University of Finance and Economics. I am [Associate of the Society of Actuaries](https://www.soa.org/education/exam-req/edu-asa-req/).
+Before joining the University of Waterloo, I obtained my M.Sc. degree in Statistics from the University of Calgary, supervised by Professor [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917). I received my B.Ec. in Actuarial Science from Southwestern University of Finance and Economics. I am an [Associate of the Society of Actuaries](https://www.soa.org/education/exam-req/edu-asa-req/).
 
 ## Research Interests
 
@@ -15,7 +15,9 @@ I am interested in the research of actuarial science and risk management.
 - **Dependence modelling** 
 - **Financial derivatives** 
 
-## Publications
+## Publications and Manuscripts
+-  Chen, Y., Lin, P., and Wang, R. (2021). An unexpected stochastic dominance: Pareto distributions, catastrophes, and risk exchange. 
+  [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y., Lin, L., and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. _Insurance: Mathematics and Economics_, forthcoming.
   [arXiv](https://arxiv.org/abs/2104.07718)
 -  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2021). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. _Statistica Sinica_, forthcoming.
@@ -30,6 +32,7 @@ I am interested in the research of actuarial science and risk management.
   **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
 
 ## Presentations
+- Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
 - The International Actuarial Association Joint Section Colloquium, online, October 2021 
 - The 56th Actuarial Research Conference, online, August 2021 
 - The 24th International Congress on Insurance: Mathematics and Economics, online, July 2021 

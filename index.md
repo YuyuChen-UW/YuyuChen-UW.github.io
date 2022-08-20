@@ -16,7 +16,7 @@ I am interested in the research of actuarial science and risk management.
 - **Financial derivatives** 
 
 ## Publications and Manuscripts
--  Chen, Y., Lin, P., and Wang, R. (2021). An unexpected stochastic dominance: Pareto distributions, catastrophes, and risk exchange. 
+-  Chen, Y., Embrechts, P., and Wang, R. (2021). An unexpected stochastic dominance: Pareto distributions, catastrophes, and risk exchange. 
   [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y., Lin, L., and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. _Insurance: Mathematics and Economics_, forthcoming.
   [arXiv](https://arxiv.org/abs/2104.07718)

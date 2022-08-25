@@ -8,7 +8,6 @@ layout: homepage
   <br>
   -Supervisors: [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and [Ken Seng Tan](https://dr.ntu.edu.sg/cris/rp/rp00143)
   <br>
-
 - **M.Sc. in Statistics**, University of Calgary, 2018
   <br>
   -Supervisors: [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917)

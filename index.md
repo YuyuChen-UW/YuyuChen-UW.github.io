@@ -39,7 +39,7 @@ I am interested in the research of actuarial science and risk management.
   **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
 
 ## Presentations
-- Mathematical and Computational Finance Lab Seminar, University of Calgary, September, 2022
+- Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
 - Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
 - The International Actuarial Association Joint Section Colloquium, online, October 2021 
 - The 56th Actuarial Research Conference, online, August 2021 

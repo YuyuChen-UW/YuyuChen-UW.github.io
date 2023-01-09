@@ -57,7 +57,7 @@ I am interested in the research of actuarial science and risk management.
   <br>
   -ACTL40004/90003 (Advanced Financial Mathematics/Mathematics of Finance III)
   
-- **2018.09-present: Teaching Assistant at the University of Waterloo**
+- **2018.09-2022.08: Teaching Assistant at the University of Waterloo**
   <br>
   -ACTSC 231 (Introductory Financial Mathematics)
   <br>

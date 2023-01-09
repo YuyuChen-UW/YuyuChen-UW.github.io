@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## Employment
-- **Lecturer**, Centre for Actuarial Studies, Department of Economics,  University of Melbourne, 2023.01--present
-- **Research Assistant**, Department of Statistics and Actuarial Science, University of Waterloo, 2022.09--2022.12
+- **Lecturer**, Centre for Actuarial Studies,  University of Melbourne, 2023.01--present
+- **Research Assistant**, University of Waterloo, 2022.09--2022.12
 
 
 ## Education and Professional Designation
@@ -53,7 +53,10 @@ I am interested in the research of actuarial science and risk management.
 - The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
   
 ## Teaching Experience
-
+- **2023.01-present: Instructor at the University of Melbourne**
+  <br>
+  -ACTL40004/90003 (Advanced Financial Mathematics/Mathematics of Finance III)
+  
 - **2018.09-present: Teaching Assistant at the University of Waterloo**
   <br>
   -ACTSC 231 (Introductory Financial Mathematics)

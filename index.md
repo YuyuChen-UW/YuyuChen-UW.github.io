@@ -2,6 +2,10 @@
 layout: homepage
 ---
 
+## Employment
+- **Lecturer**, Centre for Actuarial Studies, Department of Economics,  University of Melbourne, 2023.01--present
+- **Research Assistant**, Department of Statistics and Actuarial Science, University of Waterloo, 2022.09--2022.12
+
 
 ## Education and Professional Designation
 - **Ph.D. in Actuarial Science**, University of Waterloo, 2022

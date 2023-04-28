@@ -84,6 +84,8 @@ I am interested in the research of actuarial science and risk management.
 ## Peer-review Service
 - Insurance: Mathematics and Economics
 - ASTIN Bulletin - The Journal of the International Actuarial Association
+- Scandinavian Actuarial Journal
+- European Actuarial Journal
 - Journal of Mathematical Economics
 - Scandinavian Journal of Statistics
 

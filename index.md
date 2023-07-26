@@ -90,6 +90,7 @@ I am interested in the research of actuarial science and risk management.
 - Scandinavian Journal of Statistics
 
 ## Selected Awards
+- Best Paper Award (First Place), the 13th China International Conference on Insurance and Risk Management (CICIRM 2023)
 - Sprott Scholarship, University of Waterloo
 - Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
 - Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 

@@ -10,7 +10,7 @@ layout: homepage
 ## Education and Professional Designation
 - **Ph.D. in Actuarial Science**, University of Waterloo, 2022
   <br>
-  -Supervisors: [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and [Ken Seng Tan](https://dr.ntu.edu.sg/cris/rp/rp00143)
+  -Supervisors: [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and [Ken Seng Tan](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/ken-seng-tan)
   <br>
 - **M.Sc. in Statistics**, University of Calgary, 2018
   <br>

@@ -80,10 +80,12 @@ I am interested in the research of actuarial science and risk management.
   -STAT 333 (Applied Probability)
   -->
 - **2016.09-2018.06: Teaching Assistant at the University of Calgary**
+  <!-- 
   <br>
   -STAT 213 (Introduction to Statistics I)
    <br>
   -STAT 217 (Introduction to Statistics II)
+  -->
 
 ## Peer-review Service
 - Insurance: Mathematics and Economics

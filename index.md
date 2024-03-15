@@ -32,7 +32,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2023). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. _Statistica Sinica_. 
   [arXiv](https://arxiv.org/abs/2007.12366)
-  ([An R package](https://github.com/YuyuChen-UW/pmerge))
+  ([R package](https://github.com/YuyuChen-UW/pmerge))
 -  Chen, Y., Liu, P., Liu, Y., and Wang, R. (2022). Ordering and inequalities for mixtures on risk aggregation. _Mathematical Finance_. 
   [arXiv](https://arxiv.org/abs/2007.12338)
 -  Chen, Y., Lin, L., and Wang, R. (2022). Risk aggregation under dependence uncertainty and an order constraint. _Insurance: Mathematics and Economics_.

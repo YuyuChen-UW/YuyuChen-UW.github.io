@@ -39,9 +39,10 @@ I am interested in the research of actuarial science and risk management.
 -  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. _Quantitative Finance_.
   [PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
  
-  
+   <!-- 
 ## R package 
   **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
+  -->
 
 ## Presentations
 - Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022

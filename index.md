@@ -48,8 +48,7 @@ I am interested in the research of actuarial science and risk management.
   <br>
   -ACTL40004/90003 (Advanced Financial Mathematics/Mathematics of Finance III)
   <br>
-  -ACTL20004/90021 (Topics in Actuarial Studies/Topics in Insurance and Finance)
-  
+  -ACTL20004/90021 (Topics in Actuarial Studies/Topics in Insurance and Finance) 
 - **2018.09-2022.08: Teaching Assistant at the University of Waterloo**
  <!-- 
   <br> 

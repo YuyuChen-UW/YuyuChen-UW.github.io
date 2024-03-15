@@ -44,15 +44,7 @@ I am interested in the research of actuarial science and risk management.
   **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
   -->
 
-## Presentations
-- Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
-- Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
-- The International Actuarial Association Joint Section Colloquium, online, October 2021 
-- The 56th Actuarial Research Conference, online, August 2021 
-- The 24th International Congress on Insurance: Mathematics and Economics, online, July 2021 
-- The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics, online, May 2021 
-- University of Waterloo SAS Research Presentation Day, Waterloo, Canada, February 2020  
-- The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
+
   
 ## Teaching Experience
 - **2023.01-present: Subject Coordinator at the University of Melbourne**
@@ -87,6 +79,17 @@ I am interested in the research of actuarial science and risk management.
    <br>
   -STAT 217 (Introduction to Statistics II)
   -->
+
+
+  ## Presentations
+- Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
+- Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
+- The International Actuarial Association Joint Section Colloquium, online, October 2021 
+- The 56th Actuarial Research Conference, online, August 2021 
+- The 24th International Congress on Insurance: Mathematics and Economics, online, July 2021 
+- The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics, online, May 2021 
+- University of Waterloo SAS Research Presentation Day, Waterloo, Canada, February 2020  
+- The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
 
 ## Peer-review Service
 - Insurance: Mathematics and Economics

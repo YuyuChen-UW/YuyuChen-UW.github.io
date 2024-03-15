@@ -76,6 +76,13 @@ I am interested in the research of actuarial science and risk management.
   -STAT 217 (Introduction to Statistics II)
   -->
 
+## Selected Awards
+- Best Paper Award (First Place), the 13th China International Conference on Insurance and Risk Management (CICIRM 2023)
+- Sprott Scholarship, University of Waterloo
+- Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
+- Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
+- Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference 
+
 ## Presentations
 - Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
 - Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
@@ -94,11 +101,6 @@ I am interested in the research of actuarial science and risk management.
 - Journal of Mathematical Economics
 - Scandinavian Journal of Statistics
 
-## Selected Awards
-- Best Paper Award (First Place), the 13th China International Conference on Insurance and Risk Management (CICIRM 2023)
-- Sprott Scholarship, University of Waterloo
-- Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
-- Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
-- Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference 
+
 
 

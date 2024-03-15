@@ -54,14 +54,15 @@ I am interested in the research of actuarial science and risk management.
 - The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
   
 ## Teaching Experience
-- **2023.01-present: Instructor at the University of Melbourne**
+- **2023.01-present: Subject Coordinator at the University of Melbourne**
   <br>
   -ACTL40004/90003 (Advanced Financial Mathematics/Mathematics of Finance III)
   <br>
   -ACTL20004/90021 (Topics in Actuarial Studies/Topics in Insurance and Finance)
   
 - **2018.09-2022.08: Teaching Assistant at the University of Waterloo**
-  <br>
+ <!-- 
+  <br> 
   -ACTSC 231 (Introductory Financial Mathematics)
   <br>
   -ACTSC 232 (Life Contingencies 1)
@@ -77,7 +78,7 @@ I am interested in the research of actuarial science and risk management.
   -STAT 330 (Mathematical Statistics)
   <br>
   -STAT 333 (Applied Probability)
-  
+  -->
 - **2016.09-2018.06: Teaching Assistant at the University of Calgary**
   <br>
   -STAT 213 (Introduction to Statistics I)

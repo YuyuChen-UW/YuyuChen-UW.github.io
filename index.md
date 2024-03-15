@@ -22,9 +22,10 @@ layout: homepage
 ## Research Interests
 
 I am interested in the research of actuarial science and risk management.
+- **Portfolio risk analysis** 
 - **Robust risk aggregation** 
 - **Dependence modelling** 
-- **Financial derivatives** 
+
 
 ## Publications and Manuscripts
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_ (forthcoming). 

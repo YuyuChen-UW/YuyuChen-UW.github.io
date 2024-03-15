@@ -80,8 +80,7 @@ I am interested in the research of actuarial science and risk management.
   -STAT 217 (Introduction to Statistics II)
   -->
 
-
-  ## Presentations
+## Presentations
 - Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
 - Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
 - The International Actuarial Association Joint Section Colloquium, online, October 2021 

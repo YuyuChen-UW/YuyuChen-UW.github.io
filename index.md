@@ -28,6 +28,8 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Publications and Manuscripts
+-  Chen, Y., Embrechts, P., and Wang, R. (2024). Risk exchange under infinite-mean Pareto models. 
+  [arXiv](https://arxiv.org/abs/2403.20171)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2023). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. _Statistica Sinica_. 

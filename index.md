@@ -28,6 +28,8 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Publications and Manuscripts
+-  Chen, Y., Hu, T., Wang, R., and Zhou, Z. (2024). Dominance between combinations of infinite-mean Pareto random variables. 
+  [arXiv](https://arxiv.org/abs/2404.18467)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). Risk exchange under infinite-mean Pareto models. 
   [arXiv](https://arxiv.org/abs/2403.20171)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_ (forthcoming). 

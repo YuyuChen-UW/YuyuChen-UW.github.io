@@ -28,6 +28,8 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Publications and Manuscripts
+-  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2024). Sub-uniformity of harmonic mean p-values. 
+  [arXiv](https://arxiv.org/abs/2405.01368)
 -  Chen, Y., Hu, T., Wang, R., and Zhou, Z. (2024). Dominance between combinations of infinite-mean Pareto random variables. 
   [arXiv](https://arxiv.org/abs/2404.18467)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). Risk exchange under infinite-mean Pareto models. 

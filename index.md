@@ -28,6 +28,8 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Publications and Manuscripts
+-  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2024). Optimal insurance design with Lambda-Value-at-Risk. 
+  [arXiv](https://arxiv.org/abs/2408.09799)
 -  Chen, Y. and Wang, R. (2024). Infinite-mean models in risk management: Discussions and recent advances. 
   [arXiv](https://arxiv.org/abs/2408.08678)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2024). Sub-uniformity of harmonic mean p-values. 

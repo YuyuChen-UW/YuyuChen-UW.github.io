@@ -23,7 +23,7 @@ layout: homepage
 
 I am interested in the research of actuarial science and risk management.
 - **Portfolio risk analysis** 
-- **Robust risk aggregation** 
+- **Risk aggregation** 
 - **Model uncertainty** 
 
 

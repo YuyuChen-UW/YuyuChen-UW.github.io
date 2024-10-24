@@ -32,8 +32,6 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2408.15033)
 -  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2024). Optimal insurance design with Lambda-Value-at-Risk. 
   [arXiv](https://arxiv.org/abs/2408.09799)
--  Chen, Y. and Wang, R. (2024). Infinite-mean models in risk management: Discussions and recent advances. 
-  [arXiv](https://arxiv.org/abs/2408.08678)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2024). Sub-uniformity of harmonic mean p-values. 
   [arXiv](https://arxiv.org/abs/2405.01368)
 -  Chen, Y., Hu, T., Wang, R., and Zhou, Z. (2024). Dominance between combinations of infinite-mean Pareto random variables. 
@@ -42,6 +40,8 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2403.20171)
 
 ## Publications 
+-  Chen, Y. and Wang, R. (2024). Infinite-mean models in risk management: Discussions and recent advances. _Risk Sciences_ (forthcoming).
+  [arXiv](https://arxiv.org/abs/2408.08678)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2023). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. _Statistica Sinica_. 

@@ -28,7 +28,7 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Manuscripts
--  Chen, Y. and Shneer, S. (2024). Stochastic dominance for super heavy-tailed random variables. 
+-  Chen, Y. and Shneer, S. (2024). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. 
   [arXiv](https://arxiv.org/abs/2408.15033)
 -  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2024). Optimal insurance design with Lambda-Value-at-Risk. 
   [arXiv](https://arxiv.org/abs/2408.09799)

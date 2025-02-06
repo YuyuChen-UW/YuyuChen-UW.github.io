@@ -34,12 +34,12 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2408.09799)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2024). Sub-uniformity of harmonic mean p-values. 
   [arXiv](https://arxiv.org/abs/2405.01368)
--  Chen, Y., Hu, T., Wang, R., and Zhou, Z. (2024). Dominance between combinations of infinite-mean Pareto random variables. 
-  [arXiv](https://arxiv.org/abs/2404.18467)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). Risk exchange under infinite-mean Pareto models. 
   [arXiv](https://arxiv.org/abs/2403.20171)
 
 ## Publications 
+-  Chen, Y., Hu, T., Wang, R., and Zhou, Z. (2025). Diversification for infinite-mean Pareto models without risk aversion. _European Journal of Operational Research_(forthcoming). 
+  [arXiv](https://arxiv.org/abs/2404.18467)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y. and Wang, R. (2025). Infinite-mean models in risk management: Discussions and recent advances. _Risk Sciences_.

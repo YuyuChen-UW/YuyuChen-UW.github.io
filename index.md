@@ -38,7 +38,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2403.20171)
 
 ## Publications 
--  Chen, Y., Hu, T., Wang, R., and Zhou, Z. (2025). Diversification for infinite-mean Pareto models without risk aversion. _European Journal of Operational Research_(forthcoming). 
+-  Chen, Y., Hu, T., Wang, R., and Zhou, Z. (2025). Diversification for infinite-mean Pareto models without risk aversion. _European Journal of Operational Research_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2404.18467)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2208.08471)

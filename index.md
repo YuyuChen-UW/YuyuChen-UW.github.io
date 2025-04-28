@@ -34,7 +34,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2403.20171)
 
 ## Publications 
--  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2024). Optimal insurance design with Lambda-Value-at-Risk. _European Journal of Operational Research_ (forthcoming).
+-  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2025). Optimal insurance design with Lambda-Value-at-Risk. _European Journal of Operational Research_ (forthcoming).
   [arXiv](https://arxiv.org/abs/2408.09799)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2025). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2405.01368)

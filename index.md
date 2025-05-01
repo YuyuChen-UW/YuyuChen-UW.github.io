@@ -97,6 +97,7 @@ I am interested in the research of actuarial science and risk management.
 - Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
 - Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference 
 
+<!--
 ## Presentations
 - Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
 - Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
@@ -106,6 +107,7 @@ I am interested in the research of actuarial science and risk management.
 - The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics, online, May 2021 
 - University of Waterloo SAS Research Presentation Day, Waterloo, Canada, February 2020  
 - The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
+ -->
 
 ## Peer-review Service
 - Insurance: Mathematics and Economics
@@ -113,6 +115,7 @@ I am interested in the research of actuarial science and risk management.
 - Scandinavian Actuarial Journal
 - European Actuarial Journal
 - Journal of Mathematical Economics
+- Electronic Journal of Statistics
 - Scandinavian Journal of Statistics
 
 

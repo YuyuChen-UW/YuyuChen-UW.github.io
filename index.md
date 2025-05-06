@@ -28,6 +28,8 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Manuscripts
+-  Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. 
+  [arXiv](https://arxiv.org/abs/2505.01739)
 -  Chen, Y. and Shneer, S. (2024). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. 
   [arXiv](https://arxiv.org/abs/2408.15033)
 -  Chen, Y., Embrechts, P., and Wang, R. (2024). Risk exchange under infinite-mean Pareto models. 

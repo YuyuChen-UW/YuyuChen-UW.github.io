@@ -40,7 +40,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2408.09799)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2025). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2405.01368)
--  Chen, Y., Embrechts, P., and Wang, R. (2024). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_ (forthcoming). 
+-  Chen, Y., Embrechts, P., and Wang, R. (2025). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_. 
   [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y., Hu, T., Wang, R., and Zou, Z. (2025). Diversification for infinite-mean Pareto models without risk aversion. _European Journal of Operational Research_. 
   [arXiv](https://arxiv.org/abs/2404.18467)

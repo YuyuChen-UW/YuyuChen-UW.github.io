@@ -32,7 +32,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2505.01739)
 
 ## Publications 
--  Chen, Y., Embrechts, P., and Wang, R. (2024). Risk exchange under infinite-mean Pareto models. _Insurance: Mathematics and Economics_ (forthcoming).
+-  Chen, Y., Embrechts, P., and Wang, R. (2025). Risk exchange under infinite-mean Pareto models. _Insurance: Mathematics and Economics_ (forthcoming).
   [arXiv](https://arxiv.org/abs/2403.20171)
 -  Chen, Y. and Shneer, S. (2025). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. _ASTIN Bulletin_ (forthcoming).
   [arXiv](https://arxiv.org/abs/2408.15033)

@@ -115,6 +115,7 @@ I am interested in the research of actuarial science and risk management.
 - Insurance: Mathematics and Economics
 - ASTIN Bulletin - The Journal of the International Actuarial Association
 - Scandinavian Actuarial Journal
+- North American Actuarial Journal
 - European Actuarial Journal
 - Journal of Mathematical Economics
 - Electronic Journal of Statistics

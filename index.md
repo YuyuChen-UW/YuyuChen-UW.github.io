@@ -31,7 +31,6 @@ I am interested in the research of actuarial science and risk management.
 -  Miao, Z., Li, H., and Chen, Y. (2025). Gradient boosted multi-population mortality modelling
 with high-frequency data. 
   [arXiv](https://arxiv.org/pdf/2507.09983)
-  
 -  Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. 
   [arXiv](https://arxiv.org/abs/2505.01739)
 

@@ -56,7 +56,7 @@ with high-frequency data.
   [arXiv](https://arxiv.org/abs/2007.12338)
 -  Chen, Y., Lin, L., and Wang, R. (2022). Risk aggregation under dependence uncertainty and an order constraint. _Insurance: Mathematics and Economics_.
   [arXiv](https://arxiv.org/abs/2104.07718)
--  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. _Quantitative Finance_.
+-  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. $${\color{blue}_Quantitative Finance_}$$.
   [PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
  
 

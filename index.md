@@ -39,10 +39,10 @@ with high-frequency data.
   [arXiv](https://arxiv.org/abs/2403.20171)
 -  Chen, Y. and Shneer, S. (2025). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. _ASTIN Bulletin_ (forthcoming).
   [arXiv](https://arxiv.org/abs/2408.15033)
--  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2025). Optimal insurance design with Lambda-Value-at-Risk. _European Journal of Operational Research_ (forthcoming).
-  [arXiv](https://arxiv.org/abs/2408.09799)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2025). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_ (forthcoming). 
   [arXiv](https://arxiv.org/abs/2405.01368)
+-  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2025). Optimal insurance design with Lambda-Value-at-Risk. _European Journal of Operational Research_.
+  [arXiv](https://arxiv.org/abs/2408.09799)
 -  Chen, Y., Embrechts, P., and Wang, R. (2025). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_. 
   [arXiv](https://arxiv.org/abs/2208.08471)
 -  Chen, Y., Hu, T., Wang, R., and Zou, Z. (2025). Diversification for infinite-mean Pareto models without risk aversion. _European Journal of Operational Research_. 

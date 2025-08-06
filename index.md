@@ -120,6 +120,7 @@ with high-frequency data.
 - Scandinavian Actuarial Journal
 - North American Actuarial Journal
 - European Actuarial Journal
+- European Journal of Operational Research
 - Journal of Mathematical Economics
 - Electronic Journal of Statistics
 - Scandinavian Journal of Statistics

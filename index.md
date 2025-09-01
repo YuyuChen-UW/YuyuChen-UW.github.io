@@ -3,7 +3,8 @@ layout: homepage
 ---
 
 ## Employment
-- **Lecturer**, Centre for Actuarial Studies,  University of Melbourne, 2023.01--present
+- **Senior Lecturer**, Department of Economics,  University of Melbourne, 2025.09--present
+- **Lecturer**, Department of Economics,  University of Melbourne, 2023.01--2025.08
 - **Research Assistant**, University of Waterloo, 2022.09--2022.12
 
 

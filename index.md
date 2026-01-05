@@ -29,6 +29,8 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Manuscripts
+-  Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. 
+  [arXiv](https://arxiv.org/abs/2601.00568)
 -  Miao, Z., Li, H., and Chen, Y. (2025). Gradient boosted multi-population mortality modelling
 with high-frequency data. 
   [arXiv](https://arxiv.org/pdf/2507.09983)

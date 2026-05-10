@@ -31,19 +31,19 @@ I am interested in the research of actuarial science and risk management.
 ## Manuscripts
 -  Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. 
   [arXiv](https://arxiv.org/abs/2601.00568)
--  Miao, Z., Li, H., and Chen, Y. (2025). Gradient boosted multi-population mortality modelling
-with high-frequency data. 
-  [arXiv](https://arxiv.org/pdf/2507.09983)
 -  Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. 
   [arXiv](https://arxiv.org/abs/2505.01739)
 
 ## Publications 
--  Chen, Y., Embrechts, P., and Wang, R. (2025). Risk exchange under infinite-mean Pareto models. _Insurance: Mathematics and Economics_ (forthcoming).
-  [arXiv](https://arxiv.org/abs/2403.20171)
--  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2025). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_ (forthcoming). 
+-  Miao, Z., Li, H., and Chen, Y. (2025). Gradient boosted multi-population mortality modelling
+with high-frequency data. _ASTIN Bulletin_ (forthcoming)
+  [arXiv](https://arxiv.org/pdf/2507.09983)
+-  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2026). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_. 
   [arXiv](https://arxiv.org/abs/2405.01368)
 -  Chen, Y. and Shneer, S. (2026). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. _ASTIN Bulletin_.
   [arXiv](https://arxiv.org/abs/2408.15033)
+-  Chen, Y., Embrechts, P., and Wang, R. (2025). Risk exchange under infinite-mean Pareto models. _Insurance: Mathematics and Economics_.
+  [arXiv](https://arxiv.org/abs/2403.20171)
 -  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2025). Optimal insurance design with Lambda-Value-at-Risk. _European Journal of Operational Research_.
   [arXiv](https://arxiv.org/abs/2408.09799)
 -  Chen, Y., Embrechts, P., and Wang, R. (2025). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_. 

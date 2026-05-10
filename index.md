@@ -36,7 +36,7 @@ I am interested in the research of actuarial science and risk management.
 
 ## Publications 
 -  Miao, Z., Li, H., and Chen, Y. (2025). Gradient boosted multi-population mortality modelling
-with high-frequency data. _ASTIN Bulletin_ (forthcoming)
+with high-frequency data. _ASTIN Bulletin_ (forthcoming).
   [arXiv](https://arxiv.org/pdf/2507.09983)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2026). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_. 
   [arXiv](https://arxiv.org/abs/2405.01368)
@@ -103,8 +103,8 @@ with high-frequency data. _ASTIN Bulletin_ (forthcoming)
 - Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
 - Sprott Scholarship, University of Waterloo
 - Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
-- Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference 
-
+<!--- Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference
+ -->
 <!--
 ## Presentations
 - Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022

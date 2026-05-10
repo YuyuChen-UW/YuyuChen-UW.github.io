@@ -35,7 +35,7 @@ I am interested in the research of actuarial science and risk management.
   [arXiv](https://arxiv.org/abs/2505.01739)
 
 ## Publications 
--  Miao, Z., Li, H., and Chen, Y. (2025). Gradient boosted multi-population mortality modelling
+-  Miao, Z., Li, H., and Chen, Y. (2026). Gradient boosted multi-population mortality modelling
 with high-frequency data. _ASTIN Bulletin_ (forthcoming).
   [arXiv](https://arxiv.org/pdf/2507.09983)
 -  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2026). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_. 

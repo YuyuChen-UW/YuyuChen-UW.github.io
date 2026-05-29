@@ -3,22 +3,22 @@ layout: homepage
 ---
 
 ## Employment
-- **Senior Lecturer**, Department of Economics,  University of Melbourne, 2025.09--present
-- **Lecturer**, Department of Economics,  University of Melbourne, 2023.01--2025.08
-- **Research Assistant**, Department of Statistics and Actuarial Science,  University of Waterloo, 2022.09--2022.12
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li>2025.09 - present&nbsp;&nbsp;&nbsp;&nbsp;<strong>Senior Lecturer</strong>, Department of Economics, University of Melbourne</li>
+  <li>2023.01 - 2025.08&nbsp;&nbsp;&nbsp;&nbsp;<strong>Lecturer</strong>, Department of Economics, University of Melbourne</li>
+  <li>2022.09 - 2022.12&nbsp;&nbsp;&nbsp;&nbsp;<strong>Research Assistant</strong>, Department of Statistics and Actuarial Science, University of Waterloo</li>
+</ul>
 
 
 ## Education and Professional Designation
-- **Ph.D. in Actuarial Science**, University of Waterloo, 2022
-  <br>
-  -Supervisors: [Ruodu Wang](http://sas.uwaterloo.ca/~wang/) and [Ken Seng Tan](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/ken-seng-tan)
-  <br>
-- **M.Sc. in Statistics**, University of Calgary, 2018
-  <br>
-  -Supervisors: [Alexandru Badescu](https://contacts.ucalgary.ca/info/math/profiles/101-152917)
-  <br>
-- **B.Ec. in Actuarial Science**, Southwestern University of Finance and Economics, 2016
-- **Associate of the Society of Actuaries**, 2021
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li>2018.09 - 2022.10&nbsp;&nbsp;&nbsp;&nbsp;<strong>Ph.D. in Actuarial Science</strong>, University of Waterloo<br>
+  Supervisors: <a href="http://sas.uwaterloo.ca/~wang/">Ruodu Wang</a> and <a href="https://uwaterloo.ca/statistics-and-actuarial-science/contacts/ken-seng-tan">Ken Seng Tan</a></li>
+  <li>2016.09 - 2018.07&nbsp;&nbsp;&nbsp;&nbsp;<strong>M.Sc. in Statistics</strong>, University of Calgary<br>
+  Supervisors: <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152917">Alexandru Badescu</a></li>
+  <li>2012.09 - 2016.06&nbsp;&nbsp;&nbsp;&nbsp;<strong>B.Ec. in Actuarial Science</strong>, Southwestern University of Finance and Economics</li>
+  <li>2021&nbsp;&nbsp;&nbsp;&nbsp;<strong>Associate of the Society of Actuaries</strong></li>
+</ul>
 
 ## Research Interests
 
@@ -53,15 +53,14 @@ I am interested in the research of actuarial science and risk management.
 
   
 ## Teaching Experience
-- **2023.01-present: Subject Coordinator at the University of Melbourne**
-  <br>
-  -ACTL40004/90003 (Advanced Financial Mathematics/Mathematics of Finance III)
-  <br>
-  -ACTL20004/90021 (Topics in Actuarial Studies/Topics in Insurance and Finance) 
-- **2018.09-2022.08: Teaching Assistant at the University of Waterloo**
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li>2023.01 - present&nbsp;&nbsp;&nbsp;&nbsp;<strong>Subject Coordinator</strong>, University of Melbourne<br>
+  ACTL40004/90003 (Advanced Financial Mathematics/Mathematics of Finance III)<br>
+  ACTL20004/90021 (Topics in Actuarial Studies/Topics in Insurance and Finance)</li>
+  <li>2018.09 - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, University of Waterloo</li>
  <!-- 
-  <br> 
-  -ACTSC 231 (Introductory Financial Mathematics)
+	  <br> 
+	  -ACTSC 231 (Introductory Financial Mathematics)
   <br>
   -ACTSC 232 (Life Contingencies 1)
   <br>
@@ -74,16 +73,17 @@ I am interested in the research of actuarial science and risk management.
   -MATBUS 471 (Fixed Income Securities)
   <br>
   -STAT 330 (Mathematical Statistics)
-  <br>
-  -STAT 333 (Applied Probability)
-  -->
-- **2016.09-2018.06: Teaching Assistant at the University of Calgary**
+	  <br>
+	  -STAT 333 (Applied Probability)
+	  -->
+  <li>2016.09 - 2018.06&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, University of Calgary</li>
   <!-- 
-  <br>
-  -STAT 213 (Introduction to Statistics I)
-   <br>
-  -STAT 217 (Introduction to Statistics II)
-  -->
+	  <br>
+	  -STAT 213 (Introduction to Statistics I)
+	   <br>
+	  -STAT 217 (Introduction to Statistics II)
+	  -->
+</ul>
 
 ## Selected Awards
 - Best Paper Award (First Place), the 13th China International Conference on Insurance and Risk Management (CICIRM 2023)

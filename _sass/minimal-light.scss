@@ -127,7 +127,15 @@ p, ul, ol, table, pre, dl {
 }
 
 .paper-list {
-  list-style-type: none;
+  list-style: none;
+}
+
+.paper-list li {
+  list-style: none;
+}
+
+.paper-list li::marker {
+  content: "";
 }
 
 h1, h2, h3 {

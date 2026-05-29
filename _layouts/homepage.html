@@ -38,6 +38,21 @@
         list-style: none;
         padding-left: 0;
       }
+
+      @media print, screen and (min-width: 961px) {
+        .wrapper {
+          width: min(1500px, calc(100vw - 96px));
+        }
+
+        header,
+        footer {
+          width: 160px;
+        }
+
+        section {
+          width: calc(100% - 240px);
+        }
+      }
     </style>
 
   </head>

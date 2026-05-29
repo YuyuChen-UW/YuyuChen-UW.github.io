@@ -12,12 +12,10 @@ layout: homepage
 
 ## Education and Professional Designation
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
-  <li>2018.09 - 2022.10&nbsp;&nbsp;&nbsp;&nbsp;<strong>Ph.D. in Actuarial Science</strong>, University of Waterloo<br>
-  Supervisors: <a href="http://sas.uwaterloo.ca/~wang/">Ruodu Wang</a> and <a href="https://uwaterloo.ca/statistics-and-actuarial-science/contacts/ken-seng-tan">Ken Seng Tan</a></li>
-  <li>2016.09 - 2018.07&nbsp;&nbsp;&nbsp;&nbsp;<strong>M.Sc. in Statistics</strong>, University of Calgary<br>
-  Supervisors: <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152917">Alexandru Badescu</a></li>
-  <li>2012.09 - 2016.06&nbsp;&nbsp;&nbsp;&nbsp;<strong>B.Ec. in Actuarial Science</strong>, Southwestern University of Finance and Economics</li>
-  <li>2021&nbsp;&nbsp;&nbsp;&nbsp;<strong>Associate of the Society of Actuaries</strong></li>
+  <li><span style="display: inline-block; width: 10.5em;">2018.09 - 2022.10</span><strong>Ph.D. in Actuarial Science</strong>, University of Waterloo, Supervisors: <a href="http://sas.uwaterloo.ca/~wang/">Ruodu Wang</a> and <a href="https://uwaterloo.ca/statistics-and-actuarial-science/contacts/ken-seng-tan">Ken Seng Tan</a></li>
+  <li><span style="display: inline-block; width: 10.5em;">2016.09 - 2018.07</span><strong>M.Sc. in Statistics</strong>, University of Calgary, Supervisors: <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152917">Alexandru Badescu</a></li>
+  <li><span style="display: inline-block; width: 10.5em;">2012.09 - 2016.06</span><strong>B.Ec. in Actuarial Science</strong>, Southwestern University of Finance and Economics</li>
+  <li><span style="display: inline-block; width: 10.5em;">2021</span><strong>Associate of the Society of Actuaries</strong></li>
 </ul>
 
 ## Research Interests

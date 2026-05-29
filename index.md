@@ -12,8 +12,8 @@ layout: homepage
 
 ## Education and Professional Designation
 <ul class="paper-list education-list" style="list-style-type: none; padding-left: 0;">
-  <li><span class="date-col">2018.09 - 2022.10</span><strong>Ph.D. in Actuarial Science</strong>, University of Waterloo, Supervisors: <a href="http://sas.uwaterloo.ca/~wang/">Ruodu Wang</a> and <a href="https://uwaterloo.ca/statistics-and-actuarial-science/contacts/ken-seng-tan">Ken Seng Tan</a></li>
-  <li><span class="date-col">2016.09 - 2018.07</span><strong>M.Sc. in Statistics</strong>, University of Calgary, Supervisors: <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152917">Alexandru Badescu</a></li>
+  <li><span class="date-col">2018.09 - 2022.10</span><strong>Ph.D. in Actuarial Science</strong>, University of Waterloo, Advisors: <a href="http://sas.uwaterloo.ca/~wang/">Ruodu Wang</a> and <a href="https://uwaterloo.ca/statistics-and-actuarial-science/contacts/ken-seng-tan">Ken Seng Tan</a></li>
+  <li><span class="date-col">2016.09 - 2018.07</span><strong>M.Sc. in Statistics</strong>, University of Calgary, Advisors: <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152917">Alexandru Badescu</a></li>
   <li><span class="date-col">2012.09 - 2016.06</span><strong>B.Ec. in Actuarial Science</strong>, Southwestern University of Finance and Economics</li>
   <li><span class="date-col">2021</span><strong>Associate of the Society of Actuaries</strong></li>
 </ul>

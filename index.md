@@ -29,13 +29,19 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Manuscripts
+<div class="paper-list" markdown="1">
+
 [2] Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. 
   [arXiv](https://arxiv.org/abs/2601.00568)
 
 [1] Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. 
   [arXiv](https://arxiv.org/abs/2505.01739)
 
+</div>
+
 ## Publications 
+<div class="paper-list" markdown="1">
+
 [12] Miao, Z., Li, H., and Chen, Y. (2026). Gradient boosted multi-population mortality modelling
 with high-frequency data. _ASTIN Bulletin_ (forthcoming).
   [[arXiv]](https://arxiv.org/pdf/2507.09983)
@@ -84,7 +90,8 @@ with high-frequency data. _ASTIN Bulletin_ (forthcoming).
 [1] Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. _Quantitative Finance_.
   [[doi]](https://doi.org/10.1080/14697688.2018.1478120)
   [[PDF]](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
- 
+
+</div>
 
 
   
@@ -152,4 +159,3 @@ with high-frequency data. _ASTIN Bulletin_ (forthcoming).
 - Electronic Journal of Statistics
 - Scandinavian Journal of Statistics
 - Risk Sciences
-

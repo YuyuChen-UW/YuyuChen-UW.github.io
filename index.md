@@ -29,13 +29,13 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Manuscripts
-<ul class="paper-list" style="list-style-type: none;">
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
   <li>[2] Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. <a href="https://arxiv.org/abs/2601.00568">[arXiv]</a></li>
   <li>[1] Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. <a href="https://arxiv.org/abs/2505.01739">[arXiv]</a></li>
 </ul>
 
 ## Publications 
-<ul class="paper-list" style="list-style-type: none;">
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
   <li>[12] Miao, Z., Li, H., and Chen, Y. (2026). Gradient boosted multi-population mortality modelling with high-frequency data. <em>ASTIN Bulletin</em> (forthcoming). <a href="https://arxiv.org/pdf/2507.09983">[arXiv]</a></li>
   <li>[11] Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2026). Sub-uniformity of harmonic mean p-values. <em>Canadian Journal of Statistics</em>. <a href="https://doi.org/10.1002/cjs.70017">[doi]</a> <a href="https://arxiv.org/abs/2405.01368">[arXiv]</a></li>
   <li>[10] Chen, Y. and Shneer, S. (2026). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. <em>ASTIN Bulletin</em>. <a href="https://doi.org/10.1017/asb.2025.10053">[doi]</a> <a href="https://arxiv.org/abs/2408.15033">[arXiv]</a></li>

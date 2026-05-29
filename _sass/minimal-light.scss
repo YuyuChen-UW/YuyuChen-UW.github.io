@@ -126,8 +126,8 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-.paper-list p {
-  margin: 0;
+.paper-list {
+  list-style-type: none;
 }
 
 h1, h2, h3 {

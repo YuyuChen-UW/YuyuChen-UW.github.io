@@ -29,38 +29,61 @@ I am interested in the research of actuarial science and risk management.
 
 
 ## Manuscripts
--  Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. 
+[2] Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. 
   [arXiv](https://arxiv.org/abs/2601.00568)
--  Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. 
+
+[1] Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. 
   [arXiv](https://arxiv.org/abs/2505.01739)
 
 ## Publications 
--  Miao, Z., Li, H., and Chen, Y. (2026). Gradient boosted multi-population mortality modelling
+[12] Miao, Z., Li, H., and Chen, Y. (2026). Gradient boosted multi-population mortality modelling
 with high-frequency data. _ASTIN Bulletin_ (forthcoming).
-  [arXiv](https://arxiv.org/pdf/2507.09983)
--  Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2026). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_. 
-  [arXiv](https://arxiv.org/abs/2405.01368)
--  Chen, Y. and Shneer, S. (2026). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. _ASTIN Bulletin_.
-  [arXiv](https://arxiv.org/abs/2408.15033)
--  Chen, Y., Embrechts, P., and Wang, R. (2025). Risk exchange under infinite-mean Pareto models. _Insurance: Mathematics and Economics_.
-  [arXiv](https://arxiv.org/abs/2403.20171)
--  Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2025). Optimal insurance design with Lambda-Value-at-Risk. _European Journal of Operational Research_.
-  [arXiv](https://arxiv.org/abs/2408.09799)
--  Chen, Y., Embrechts, P., and Wang, R. (2025). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_. 
-  [arXiv](https://arxiv.org/abs/2208.08471)
--  Chen, Y., Hu, T., Wang, R., and Zou, Z. (2025). Diversification for infinite-mean Pareto models without risk aversion. _European Journal of Operational Research_. 
-  [arXiv](https://arxiv.org/abs/2404.18467)
--  Chen, Y. and Wang, R. (2025). Infinite-mean models in risk management: Discussions and recent advances. _Risk Sciences_.
-  [arXiv](https://arxiv.org/abs/2408.08678)
--  Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2023). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. _Statistica Sinica_. 
-  [arXiv](https://arxiv.org/abs/2007.12366)
-  ([R package](https://github.com/YuyuChen-UW/pmerge))
--  Chen, Y., Liu, P., Liu, Y., and Wang, R. (2022). Ordering and inequalities for mixtures on risk aggregation. _Mathematical Finance_. 
-  [arXiv](https://arxiv.org/abs/2007.12338)
--  Chen, Y., Lin, L., and Wang, R. (2022). Risk aggregation under dependence uncertainty and an order constraint. _Insurance: Mathematics and Economics_.
-  [arXiv](https://arxiv.org/abs/2104.07718)
--  Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. _Quantitative Finance_.
-  [PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
+  [[arXiv]](https://arxiv.org/pdf/2507.09983)
+
+[11] Chen, Y., Wang, R., Wang, Y., and Zhu, W. (2026). Sub-uniformity of harmonic mean p-values. _Canadian Journal of Statistics_. 
+  [[doi]](https://doi.org/10.1002/cjs.70017)
+  [[arXiv]](https://arxiv.org/abs/2405.01368)
+
+[10] Chen, Y. and Shneer, S. (2026). Risk aggregation and stochastic dominance for a class of heavy-tailed distributions. _ASTIN Bulletin_.
+  [[doi]](https://doi.org/10.1017/asb.2025.10053)
+  [[arXiv]](https://arxiv.org/abs/2408.15033)
+
+[9] Chen, Y., Embrechts, P., and Wang, R. (2025). Risk exchange under infinite-mean Pareto models. _Insurance: Mathematics and Economics_.
+  [[doi]](https://doi.org/10.1016/j.insmatheco.2025.103131)
+  [[arXiv]](https://arxiv.org/abs/2403.20171)
+
+[8] Boonen, T.J., Chen, Y., Han, X., and Wang, Q. (2025). Optimal insurance design with Lambda-Value-at-Risk. _European Journal of Operational Research_.
+  [[doi]](https://doi.org/10.1016/j.ejor.2025.04.038)
+  [[arXiv]](https://arxiv.org/abs/2408.09799)
+
+[7] Chen, Y., Embrechts, P., and Wang, R. (2025). An unexpected stochastic dominance: Pareto distributions, dependence, and diversification. _Operations Research_. 
+  [[doi]](https://doi.org/10.1287/opre.2022.0505)
+  [[arXiv]](https://arxiv.org/abs/2208.08471)
+
+[6] Chen, Y., Hu, T., Wang, R., and Zou, Z. (2025). Diversification for infinite-mean Pareto models without risk aversion. _European Journal of Operational Research_. 
+  [[doi]](https://doi.org/10.1016/j.ejor.2025.01.039)
+  [[arXiv]](https://arxiv.org/abs/2404.18467)
+
+[5] Chen, Y. and Wang, R. (2025). Infinite-mean models in risk management: Discussions and recent advances. _Risk Sciences_.
+  [[doi]](https://doi.org/10.1016/j.risk.2024.100003)
+  [[arXiv]](https://arxiv.org/abs/2408.08678)
+
+[4] Chen, Y., Liu, P., Tan, K. S., and Wang, R. (2023). Trade-off between validity and efficiency of merging p-values under arbitrary dependence. _Statistica Sinica_. 
+  [[doi]](https://doi.org/10.5705/ss.202021.0071)
+  [[arXiv]](https://arxiv.org/abs/2007.12366)
+  [[R package]](https://github.com/YuyuChen-UW/pmerge)
+
+[3] Chen, Y., Liu, P., Liu, Y., and Wang, R. (2022). Ordering and inequalities for mixtures on risk aggregation. _Mathematical Finance_. 
+  [[doi]](https://doi.org/10.1111/mafi.12323)
+  [[arXiv]](https://arxiv.org/abs/2007.12338)
+
+[2] Chen, Y., Lin, L., and Wang, R. (2022). Risk aggregation under dependence uncertainty and an order constraint. _Insurance: Mathematics and Economics_.
+  [[doi]](https://doi.org/10.1016/j.insmatheco.2021.10.006)
+  [[arXiv]](https://arxiv.org/abs/2104.07718)
+
+[1] Badescu, A., Chen, Y., Couch, M., and Cui, Z. (2019). Variance swaps valuation under non-affine GARCH models and their diffusion limits. _Quantitative Finance_.
+  [[doi]](https://doi.org/10.1080/14697688.2018.1478120)
+  [[PDF]](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
  
 
 
@@ -129,7 +152,4 @@ with high-frequency data. _ASTIN Bulletin_ (forthcoming).
 - Electronic Journal of Statistics
 - Scandinavian Journal of Statistics
 - Risk Sciences
-
-
-
 

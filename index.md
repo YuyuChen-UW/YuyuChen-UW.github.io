@@ -52,10 +52,10 @@ I am interested in the research of actuarial science and risk management.
   
 ## Teaching Experience
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
-  <li>2023.01 - present&nbsp;&nbsp;&nbsp;&nbsp;<strong>Subject Coordinator</strong>, University of Melbourne<br>
+  <li><span class="date-col">2023.01 - present</span><strong>Subject Coordinator</strong>, University of Melbourne<br>
   <span class="date-col"></span>ACTL40004/90003 (Advanced Financial Mathematics/Mathematics of Finance III)<br>
   <span class="date-col"></span>ACTL20004/90021 (Topics in Actuarial Studies/Topics in Insurance and Finance)</li>
-  <li>2018.09 - 2022.08&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, University of Waterloo</li>
+  <li><span class="date-col">2018.09 - 2022.08</span><strong>Teaching Assistant</strong>, University of Waterloo</li>
  <!-- 
 	  <br> 
 	  -ACTSC 231 (Introductory Financial Mathematics)
@@ -74,7 +74,7 @@ I am interested in the research of actuarial science and risk management.
 	  <br>
 	  -STAT 333 (Applied Probability)
 	  -->
-  <li>2016.09 - 2018.06&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, University of Calgary</li>
+  <li><span class="date-col">2016.09 - 2018.06</span><strong>Teaching Assistant</strong>, University of Calgary</li>
   <!-- 
 	  <br>
 	  -STAT 213 (Introduction to Statistics I)

@@ -79,6 +79,7 @@
 
         section {
           width: 820px;
+          transform: translateX(70px);
         }
       }
     </style>
@@ -96,6 +97,10 @@
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <br>
+        {% endif %}
+        {% if site.department %}
+        <department>{{ site.department }}</department>
         <br>
         {% endif %}
         {% if site.affiliation %}

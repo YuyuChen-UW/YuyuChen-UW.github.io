@@ -28,6 +28,7 @@ I am interested in the research of actuarial science and risk management.
 
 ## Manuscripts
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li>[3] Chen, Y., Lin, L., and Wang, R. (2026). Universal Value-at-Risk superadditivity. <a href="https://arxiv.org/abs/2606.22884">[arXiv]</a></li>
   <li>[2] Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. <a href="https://arxiv.org/abs/2601.00568">[arXiv]</a></li>
   <li>[1] Chen, Y., Hu, T., Shneer, S., and Zou, Z. (2025). Stochastic dominance for linear combinations of infinite-mean risks. <a href="https://arxiv.org/abs/2505.01739">[arXiv]</a></li>
 </ul>

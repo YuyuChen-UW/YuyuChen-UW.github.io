@@ -3,7 +3,7 @@ layout: homepage
 nav: about
 ---
 
-## Employment
+## Academic Appointments
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
   <li>2025.09 - present&nbsp;&nbsp;&nbsp;&nbsp;<strong>Senior Lecturer</strong>, Department of Economics, University of Melbourne</li>
   <li>2023.01 - 2025.08&nbsp;&nbsp;&nbsp;&nbsp;<strong>Lecturer</strong>, Department of Economics, University of Melbourne</li>

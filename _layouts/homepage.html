@@ -79,6 +79,12 @@
         text-align: center;
       }
 
+      .site-nav {
+        width: calc(100% - 30px);
+        max-width: 1040px;
+        margin: 28px auto 0;
+      }
+
       @media (prefers-color-scheme: dark) {
         .top-nav {
           border-bottom-color: #3a3b44;
@@ -134,6 +140,12 @@
 
   </head>
   <body>
+    <nav class="top-nav site-nav" aria-label="Section navigation">
+      <a class="{% if page.nav == 'about' %}active{% endif %}" href="{{ "/" | relative_url }}"><i class="fa-solid fa-user"></i><span>About</span></a>
+      <a class="{% if page.nav == 'research' %}active{% endif %}" href="{{ "/research/" | relative_url }}"><i class="fa-solid fa-book-open"></i><span>Research</span></a>
+      <a class="{% if page.nav == 'teaching' %}active{% endif %}" href="{{ "/teaching/" | relative_url }}"><i class="fa-solid fa-chalkboard-user"></i><span>Teaching</span></a>
+      <a class="{% if page.nav == 'service' %}active{% endif %}" href="{{ "/service/" | relative_url }}"><i class="fa-solid fa-handshake"></i><span>Service</span></a>
+    </nav>
     <div class="wrapper">
       <header>
         
@@ -196,13 +208,6 @@
 
       </header>
       <section>
-
-      <nav class="top-nav" aria-label="Section navigation">
-        <a class="{% if page.nav == 'about' %}active{% endif %}" href="{{ "/" | relative_url }}"><i class="fa-solid fa-user"></i><span>About</span></a>
-        <a class="{% if page.nav == 'research' %}active{% endif %}" href="{{ "/research/" | relative_url }}"><i class="fa-solid fa-book-open"></i><span>Research</span></a>
-        <a class="{% if page.nav == 'teaching' %}active{% endif %}" href="{{ "/teaching/" | relative_url }}"><i class="fa-solid fa-chalkboard-user"></i><span>Teaching</span></a>
-        <a class="{% if page.nav == 'service' %}active{% endif %}" href="{{ "/service/" | relative_url }}"><i class="fa-solid fa-handshake"></i><span>Service</span></a>
-      </nav>
 
       {{ content }}
 

@@ -39,7 +39,7 @@ permalink: /teaching/
 
 ## Graduate Supervision
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
-  <li><span class="date-col">2024 - present</span>Soon Wei Tan, <strong>Ph.D.</strong> (co-supervised with <a href="https://fbe.unimelb.edu.au/our-people/staff/economics/enrique-calderin">Enrique Calderin</a>)</li>
-  <li><span class="date-col">2024 - present</span>Ziting Miao, <strong>Ph.D.</strong> (co-supervised with <a href="https://fbe.unimelb.edu.au/our-people/staff/economics/han-li">Han Li</a>)</li>
-  <li><span class="date-col">2026 - present</span>Shunhao Ye, <strong>Ph.D.</strong> (co-supervised with <a href="https://fbe.unimelb.edu.au/our-people/staff/economics/ping-chen">Ping Chen</a>)</li>
+  <li><span class="date-col">2024 - present</span><strong>Soon Wei Tan</strong>, Ph.D. (co-supervised with <a href="https://fbe.unimelb.edu.au/our-people/staff/economics/enrique-calderin">Enrique Calderin</a>)</li>
+  <li><span class="date-col">2024 - present</span><strong>Ziting Miao</strong>, Ph.D. (co-supervised with <a href="https://fbe.unimelb.edu.au/our-people/staff/economics/han-li">Han Li</a>)</li>
+  <li><span class="date-col">2026 - present</span><strong>Shunhao Ye</strong>, Ph.D. (co-supervised with <a href="https://fbe.unimelb.edu.au/our-people/staff/economics/ping-chen">Ping Chen</a>)</li>
 </ul>

@@ -34,14 +34,41 @@ I am interested in the research of actuarial science and risk management.
 - Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
 <!--- Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference-->
 
-<!--
-## Presentations
-- Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
-- Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
-- The International Actuarial Association Joint Section Colloquium, online, October 2021 
-- The 56th Actuarial Research Conference, online, August 2021 
-- The 24th International Congress on Insurance: Mathematics and Economics, online, July 2021 
-- The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics, online, May 2021 
-- University of Waterloo SAS Research Presentation Day, Waterloo, Canada, February 2020  
-- The 2018 Alberta Mathematics Dialogue, Calgary, Canada, May 2018
- -->
+## Conferences
+### Invited Conference Presentations
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li><span class="date-col">2025.12</span>The 69th Annual Meeting of the Australian Mathematical Society, Latrobe University, Australia</li>
+  <li><span class="date-col">2023.12</span>The 67th Annual Meeting of the Australian Mathematical Society, University of Queensland, Australia</li>
+  <li><span class="date-col">2022.08</span>Extreme Value Theory and Quantitative Risk Management Workshop, Fudan University, Online</li>
+</ul>
+
+### Contributed Conference Presentations
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li><span class="date-col">2026.07</span>The 29th International Congress on Insurance: Mathematics and Economics, Sungkyunkwan University, Korea</li>
+  <li><span class="date-col">2026.01</span>The 1st ASTIN Bulletin Conference, ETH Zurich, Switzerland</li>
+  <li><span class="date-col">2025.12</span>Australasian Actuarial Education and Research Symposium, UNSW Sydney, Australia</li>
+  <li><span class="date-col">2025.09</span>2025 Risk Sciences Annual Conference, Nanyang Technological University, Singapore</li>
+  <li><span class="date-col">2024.12</span>Quantitative Methods in Finance Conference, University of Technology Sydney, Australia</li>
+  <li><span class="date-col">2024.11</span>Australasian Actuarial Education and Research Symposium, Monash University, Australia</li>
+  <li><span class="date-col">2023.11</span>Australasian Actuarial Education and Research Symposium, Victoria University of Wellington, New Zealand</li>
+  <li><span class="date-col">2023.07</span>The 13th National Conference on Probability Limit Theory and Large Sample Theory, Xining, China</li>
+  <li><span class="date-col">2023.07</span>The 13th China International Conference on Insurance and Risk Management, Guangzhou, China</li>
+  <li><span class="date-col">2021.10</span>The International Actuarial Association Joint Section Colloquium, Online</li>
+  <li><span class="date-col">2021.08</span>The 56th Actuarial Research Conference, Online</li>
+  <li><span class="date-col">2021.07</span>The 24th International Congress on Insurance: Mathematics and Economics, Online</li>
+  <li><span class="date-col">2021.05</span>The 5th PKU-NUS Annual International Conference on Quantitative Finance and Economics, Online</li>
+  <li><span class="date-col">2020.02</span>SAS Research Presentation Day, Waterloo, Canada</li>
+  <li><span class="date-col">2018.05</span>Alberta Mathematics Dialogue, Calgary, Canada</li>
+</ul>
+
+## Seminars
+<ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li><span class="date-col">2026.07</span>School of Mathematics Seminar, Southwestern University of Finance and Economics, China</li>
+  <li><span class="date-col">2026.01</span>Actuarial Science & Mathematical Finance Seminar, University of Amsterdam, Netherlands</li>
+  <li><span class="date-col">2025.10</span>School of Risk and Actuarial Studies Seminar, UNSW Sydney, Australia</li>
+  <li><span class="date-col">2024.03</span>Department of Econometrics and Business Statistics Seminar, Monash University, Australia</li>
+  <li><span class="date-col">2023.11</span>School of Mathematics, Statistics and Actuarial Science, University of Essex, Online</li>
+  <li><span class="date-col">2023.09</span>School of Mathematical Science Seminar, Nankai University, Online</li>
+  <li><span class="date-col">2023.08</span>School of Risk and Actuarial Studies Seminar, UNSW Sydney, Australia</li>
+  <li><span class="date-col">2022.09</span>Mathematical and Computational Finance Lab Seminar, University of Calgary, Canada</li>
+</ul>

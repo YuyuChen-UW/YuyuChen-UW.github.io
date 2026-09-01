@@ -14,24 +14,24 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark | relative_url }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon | relative_url }}" type="image/png" />
+    <script src="{{ "/assets/js/favicon-switcher.js" | relative_url }}" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
     {% if site.font == "Sans Serif" %}
-    <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
+    <link rel="stylesheet" href="{{ "/assets/css/font_sans_serif.css" | relative_url }}">
     {% else %}
-    <link rel="stylesheet" href="./assets/css/font.css">
+    <link rel="stylesheet" href="{{ "/assets/css/font.css" | relative_url }}">
     {% endif %}
     {% if site.auto_dark_mode %}
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/publications.css">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/publications.css" | relative_url }}">
     {% else %}
-    <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
-    <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    <link rel="stylesheet" href="{{ "/assets/css/style-no-dark-mode.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/publications-no-dark-mode.css" | relative_url }}">
     {% endif %}
     <style>
       body {
@@ -46,6 +46,54 @@
       .date-col {
         display: inline-block;
         width: 9.2em;
+      }
+
+      .top-nav {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 18px;
+        margin: 0 0 28px;
+        padding-bottom: 12px;
+        border-bottom: 1px solid #e5e5e5;
+      }
+
+      .top-nav a {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        color: #043361;
+        font-weight: 600;
+        border-bottom: 2px solid transparent;
+        padding-bottom: 3px;
+      }
+
+      .top-nav a.active,
+      .top-nav a:hover {
+        border-bottom-color: #043361;
+        color: #043361;
+      }
+
+      .top-nav i {
+        width: 1.1em;
+        text-align: center;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .top-nav {
+          border-bottom-color: #3a3b44;
+        }
+
+        .top-nav a,
+        .top-nav a.active,
+        .top-nav a:hover {
+          color: rgb(62, 183, 240);
+          border-bottom-color: rgb(62, 183, 240);
+        }
+
+        .top-nav a {
+          border-bottom-color: transparent;
+        }
       }
 
       @media print, screen and (min-width: 961px) {
@@ -90,7 +138,7 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
@@ -148,6 +196,13 @@
 
       </header>
       <section>
+
+      <nav class="top-nav" aria-label="Section navigation">
+        <a class="{% if page.nav == 'about' %}active{% endif %}" href="{{ "/" | relative_url }}"><i class="fa-solid fa-user"></i><span>About</span></a>
+        <a class="{% if page.nav == 'research' %}active{% endif %}" href="{{ "/research/" | relative_url }}"><i class="fa-solid fa-book-open"></i><span>Research</span></a>
+        <a class="{% if page.nav == 'teaching' %}active{% endif %}" href="{{ "/teaching/" | relative_url }}"><i class="fa-solid fa-chalkboard-user"></i><span>Teaching</span></a>
+        <a class="{% if page.nav == 'service' %}active{% endif %}" href="{{ "/service/" | relative_url }}"><i class="fa-solid fa-handshake"></i><span>Service</span></a>
+      </nav>
 
       {{ content }}
 

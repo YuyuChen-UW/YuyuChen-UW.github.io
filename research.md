@@ -13,7 +13,7 @@ permalink: /research/
 
 ## Research Interests
 
-Research areas: Actuarial Science and Quantitative Risk Management.
+Actuarial Science and Quantitative Risk Management.
 
 - **Risk aggregation**
 - **Stochastic dominance**

@@ -11,6 +11,15 @@ permalink: /research/
   }
 </style>
 
+## Research Interests
+
+- **Risk aggregation**
+- **Capital allocation**
+- **Optimal insurance**
+- **Stochastic dominance**
+- **Dependence modelling**
+- **Model uncertainty**
+
 ## Manuscripts
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
   <li>[2] Chen, Y., Lin, L., and Wang, R. (2026). Universal Value-at-Risk superadditivity. <a href="https://arxiv.org/abs/2606.22884">[arXiv]</a></li>

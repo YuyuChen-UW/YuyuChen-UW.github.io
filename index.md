@@ -19,14 +19,6 @@ nav: about
   <li><span class="date-col">2021</span><strong>Associate of the Society of Actuaries</strong></li>
 </ul>
 
-## Research Interests
-
-I am interested in the research of actuarial science and risk management.
-- **Portfolio risk analysis** 
-- **Risk aggregation** 
-- **Model uncertainty** 
-
-
 ## Selected Awards
 - Best Paper Award (First Place), the 13th China International Conference on Insurance and Risk Management (CICIRM 2023)
 - Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section

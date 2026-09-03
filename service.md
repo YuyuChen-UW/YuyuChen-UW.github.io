@@ -25,8 +25,6 @@ permalink: /service/
 
   .journal-columns li {
     break-inside: avoid;
-    color: #800080;
-    font-style: italic;
     margin-bottom: 0.2rem;
   }
 
@@ -36,11 +34,6 @@ permalink: /service/
     }
   }
 
-  @media (prefers-color-scheme: dark) {
-    .journal-columns li {
-      color: #f0f0f0;
-    }
-  }
 </style>
 
 <div class="service-category">

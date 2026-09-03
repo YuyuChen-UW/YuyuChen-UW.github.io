@@ -4,6 +4,13 @@ nav: research
 permalink: /research/
 ---
 
+<style>
+  .paper-list em {
+    color: #800080;
+    font-style: italic;
+  }
+</style>
+
 ## Manuscripts
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
   <li>[2] Chen, Y., Lin, L., and Wang, R. (2026). Universal Value-at-Risk superadditivity. <a href="https://arxiv.org/abs/2606.22884">[arXiv]</a></li>

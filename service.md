@@ -25,12 +25,20 @@ permalink: /service/
 
   .journal-columns li {
     break-inside: avoid;
+    color: #800080;
+    font-style: italic;
     margin-bottom: 0.2rem;
   }
 
   @media print, screen and (max-width: 720px) {
     .journal-columns {
       columns: 1;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .journal-columns li {
+      color: #f0f0f0;
     }
   }
 </style>

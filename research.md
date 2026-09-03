@@ -13,12 +13,14 @@ permalink: /research/
 
 ## Research Interests
 
+Research areas: Actuarial Science and Quantitative Risk Management.
+
 - **Risk aggregation**
-- **Capital allocation**
-- **Optimal insurance**
 - **Stochastic dominance**
 - **Dependence modelling**
 - **Model uncertainty**
+- **Capital allocation**
+- **Optimal insurance**
 
 ## Manuscripts
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">

@@ -16,6 +16,7 @@ permalink: /research/
 Actuarial Science and Quantitative Risk Management.
 
 - **Risk aggregation**
+- **Risk sharing**
 - **Stochastic dominance**
 - **Dependence modelling**
 - **Model uncertainty**

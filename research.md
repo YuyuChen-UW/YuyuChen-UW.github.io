@@ -24,6 +24,7 @@ Actuarial Science and Quantitative Risk Management.
 
 ## Manuscripts
 <ul class="paper-list" style="list-style-type: none; padding-left: 0;">
+  <li>[3] Miao, Z., Chen, Y., and Li, H. (2026). Risk sharing for background risk models with infinite mean. <a href="https://arxiv.org/abs/2611.27485">[arXiv]</a></li>
   <li>[2] Chen, Y., Lin, L., and Wang, R. (2026). Universal Value-at-Risk superadditivity. <a href="https://arxiv.org/abs/2606.22884">[arXiv]</a></li>
   <li>[1] Calderín-Ojeda, E., Chen, Y., and Tan, S. W. (2026). Capital allocation and tail central moments for the multivariate normal mean-variance mixture distribution. <a href="https://arxiv.org/abs/2601.00568">[arXiv]</a></li>
 </ul>
